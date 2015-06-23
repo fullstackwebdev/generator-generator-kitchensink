@@ -1,5 +1,30 @@
 {
-  "name": "package",
+  "name": "<%= appname %>",
   "version": "0.0.0",
-  "dependencies": {}
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "<%= appname %>/<%= appname %>",
+  "author": {
+    "name": "<%= appname %>",
+    "email": "<%= appname %>",
+    "url": "<%= appname %>"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
 }
