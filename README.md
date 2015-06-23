@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-generator-kitchensink [![Build Status](https://secure.travis-ci.org/fullstackwebdev/generator-generator-kitchensink.png?branch=master)](https://travis-ci.org/fullstackwebdev/generator-generator-kitchensink)
 
 > [Yeoman](http://yeoman.io) generator
@@ -45,3 +46,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+=======
+# generator-generator-kitchensink
+A Yeoman Generator Generator Kitchsink for referencing how to create a generator.
+>>>>>>> 366f217913d549d52cb71ae249cd30d5c8cab6c8
