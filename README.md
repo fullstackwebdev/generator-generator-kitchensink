@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# generator-generator-kitchensink [![Build Status](https://secure.travis-ci.org/fullstackwebdev/generator-generator-kitchensink.png?branch=master)](https://travis-ci.org/fullstackwebdev/generator-generator-kitchensink)
+# generator-generator-kitchensink 
+## An example generator to build from with one subgenerator endpoint and basic blank app scaffold diretory
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -49,4 +49,3 @@ MIT
 =======
 # generator-generator-kitchensink
 A Yeoman Generator Generator Kitchsink for referencing how to create a generator.
->>>>>>> 366f217913d549d52cb71ae249cd30d5c8cab6c8
